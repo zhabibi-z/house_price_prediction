@@ -1,6 +1,6 @@
 # House Price Prediction
 
-Machine learning model for predicting residential property prices.
+Machine learning model for predicting residential property prices. Using Linear Regression.
 
 ## Overview
 
