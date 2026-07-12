@@ -1,0 +1,9 @@
+# Baseline (src/baseline.py) — runnable with no Kaggle credentials (data via OpenML)
+scikit-learn>=1.3
+pandas>=2.0
+numpy>=1.24
+
+# Full notebook pipeline (HousePricePrediction.ipynb)
+autogluon.tabular==1.2
+scipy>=1.10
+matplotlib>=3.7
