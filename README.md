@@ -27,7 +27,7 @@ The AutoGluon ensemble in the notebook is expected to improve on this baseline; 
 leaderboard (validation RMSLE) is printed by the notebook's modeling section. Reporting the linear
 baseline alongside it shows how much the added model complexity is actually worth.
 
-## Repository layout
+##Repository layout
 
 ```
 ├── HousePricePrediction.ipynb   # full pipeline: cleaning, feature engineering, AutoGluon, EDA
